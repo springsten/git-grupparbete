@@ -7,3 +7,6 @@ const y = 10;
 console.log(y);
 
 //test
+
+const z = 100;
+console.log(z);
